@@ -6,13 +6,13 @@
 			"full": [
 				{
 					"action": "notice",
-					"msg": "Currently, you must download the KFO content manually from the <a href=\"https://crystalwarrior.github.io/KFO-Wiki/downloads/\">KFO website</a>. Sorry!"
+					"msg": "Currently, you must download the KFO content manually from the <a href=\"https://wiki.killingfeveronline.com/downloads/\">KFO website</a>. Sorry!"
 				}
 			],
 			"update": [
 				{
 					"action": "notice",
-					"msg": "Currently, you must download the KFO content manually from the <a href=\"https://crystalwarrior.github.io/KFO-Wiki/downloads/\">KFO website</a>. Sorry!"
+					"msg": "Currently, you must download the KFO content manually from the <a href=\"https://wiki.killingfeveronline.com/downloads/\">KFO website</a>. Sorry!"
 				}
 			]
 		},
@@ -23,7 +23,7 @@
 	],
 	"launcher": [
 		{
-			"branding": "https://crystalwarrior.github.io/KFO-website/images/logo.png"
+			"branding": "https://www.killingfeveronline.com/images/logo.png"
 		}
 	]
 }
